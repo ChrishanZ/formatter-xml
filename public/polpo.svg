@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <g transform="translate(0,10)">
+    <!-- Corps avec tentacules intégrés -->
+    <path fill="#3a9fbf" d="
+      M64 28
+      A30 30 0 0 1 94 58
+      Q94 70, 104 80
+      Q96 88, 86 82
+      Q84 94, 74 88
+      Q70 100, 64 94
+      Q58 100, 54 88
+      Q44 94, 42 82
+      Q32 88, 24 80
+      Q34 70, 34 58
+      A30 30 0 0 1 64 28
+      Z" />
+
+    <!-- Yeux kawaii -->
+    <circle cx="52" cy="56" r="6" fill="#111"/>
+    <circle cx="76" cy="56" r="6" fill="#111"/>
+    <circle cx="50" cy="54" r="2" fill="#fff"/>
+    <circle cx="74" cy="54" r="2" fill="#fff"/>
+
+    <!-- Bouche sourire -->
+    <path d="M52 70c4 6 20 6 24 0" stroke="#111" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
